@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "decomposed",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/b3ll/Decomposed",
+      "state" : {
+        "branch" : "main",
+        "revision" : "5a6105467b1a6c7c456a0e0d1af65768d8772db5"
+      }
+    },
+    {
+      "identity" : "motion",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/b3ll/Motion",
+      "state" : {
+        "branch" : "main",
+        "revision" : "e2f012d9796098cae5a98ea8756904c24c1c1a61"
+      }
+    },
+    {
+      "identity" : "swift-numerics",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-numerics",
+      "state" : {
+        "revision" : "0a5bc04095a675662cf24757cc0640aa2204253b",
+        "version" : "1.0.2"
+      }
+    }
+  ],
+  "version" : 2
+}
