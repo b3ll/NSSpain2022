@@ -1,6 +1,6 @@
 # NSSpain 2022 - Crafting Responsive and Playful Interfaces
 
-Presentation and demo for my talk "Crafting Responsive and Playful Interfacest" at NSSpain in Logroño
+Presentation and demo for my talk "Crafting Responsive and Playful Interfaces" at NSSpain in Logroño
 
 Talk is available to watch here: https://vimeo.com/751571352/3330bd3af4
 
